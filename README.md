@@ -17,5 +17,5 @@ This is a fast and intelligent asynchronous web crawler built with Python. It co
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/async-webcrawler.git
+https://github.com/RohithRamesh28/onlycrawls.git
 cd async-webcrawler
